@@ -3,7 +3,8 @@
 This project includes the my answer to Shopify [Data Science Intern Challenge](https://docs.google.com/document/d/13VCtoyto9X1PZ74nPI4ZEDdb8hF8LAlcmLH1ZTHxKxE/edit#heading=h.5j27tl9uwcuc). 
 
 The brief answers are listed below.   
-### Please find the detailed anaylsis in *Shopify_DS_Challenge.ipynb* above. The analysis was completed in Jupyter Notebook using Python.  
+
+Please find the detailed anaylsis in ***Shopify_DS_Challenge.ipynb*** above. The analysis was completed in Jupyter Notebook using Python.  
 
 ### Question 1: Given some sample data, write a program to answer the following: click here to access the required data set
 
