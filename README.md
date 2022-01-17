@@ -1,6 +1,6 @@
 # Shopify-Data-Science-Intern-Challenge
 
-This project includes the my answer to Shopify [Data Science Intern Challenge](https://docs.google.com/document/d/13VCtoyto9X1PZ74nPI4ZEDdb8hF8LAlcmLH1ZTHxKxE/edit#heading=h.5j27tl9uwcuc). 
+This repository includes the my answer to Shopify [Data Science Intern Challenge](https://docs.google.com/document/d/13VCtoyto9X1PZ74nPI4ZEDdb8hF8LAlcmLH1ZTHxKxE/edit#heading=h.5j27tl9uwcuc). 
 
 The brief answers are listed below.   
 
